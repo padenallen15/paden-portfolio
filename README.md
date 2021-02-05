@@ -15,7 +15,7 @@ My personal website
 https://padenallen15.github.io/paden-portfolio/
 
 ## Screenshot
-![Alt text](./img/screenshot)
+![Alt text](./img/screenshot.png)
 
 ## Contribution
 Created by Brittany Chiang
